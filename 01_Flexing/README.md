@@ -1,4 +1,4 @@
-# CSC40800-Fall2024
+# Flexing
 
 
 ## Run Instructions
