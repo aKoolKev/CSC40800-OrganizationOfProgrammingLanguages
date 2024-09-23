@@ -23,7 +23,7 @@ WSPACE    [\ \t\n]
 
 %%
 
-
+/*
 int main(int argc, char **argv)
 {
   yyFlexLexer scanner;
@@ -37,3 +37,4 @@ int main(int argc, char **argv)
     }
   return 0;
 }
+*/
