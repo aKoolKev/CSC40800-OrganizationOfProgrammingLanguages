@@ -1,6 +1,3 @@
-# CSC40800-Fall2024
-
-
 ## Run Instructions (for main C++ code in lex file)
 1. `Flex++` <fileName.l>
     - Will produce a `lex.yy.cc` file
@@ -21,5 +18,3 @@
 
 4. `g++ -o exeName main.o lex.yy.o`
     - Will produce an executable: `exeName`
-
-
